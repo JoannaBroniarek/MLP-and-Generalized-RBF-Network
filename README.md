@@ -44,9 +44,11 @@ N - the number of neurons N of the hidden layer
 
 
 
-**Image of the best prediction & Image of the original function**
+**Image of the best prediction**
 
 ![bestprediction](img/Predicted_Function_Plot3.png)
+
+**Image of the original function**
 
 ![original](img/function_image.jpg)
 
