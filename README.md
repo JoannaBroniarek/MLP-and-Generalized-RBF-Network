@@ -32,7 +32,7 @@ Organization of the code follows the professor's rules where for each question t
 
 ## Short summary of results
 
-![summary_table](/home/jb/Desktop/summary_table.png)
+![summary_table](img/summary_table.png)
 
 where the hyper-parameters are: 
 
@@ -44,9 +44,11 @@ N - the number of neurons N of the hidden layer
 
 
 
-**Image of the best prediction (left) & Image of the original function (right)**
+**Image of the best prediction**
 
-![]()
+![bestprediction](img/Predicted_Function_Plot3.png)
 
-![]()
+**Image of the original function**
+
+![original](img/function_image.jpg)
 
